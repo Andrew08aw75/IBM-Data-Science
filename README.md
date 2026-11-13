@@ -17,6 +17,7 @@ The repository is organized into the following directories:
 Practical exercises and projects focused on data visualization, interactive dashboards, and graphical data exploration.
 
 **Topics and tools include:**
+
 - Data Visualization.
 - Plotly.
 - Interactive Visualizations.
@@ -36,6 +37,7 @@ This section contains learning materials and programming assignments related to 
 Python programming exercises and practical assignments covering fundamental programming concepts and data manipulation.
 
 **Topics include:**
+
 - Python Fundamentals.
 - Data Structures.
 - Dictionaries.
@@ -53,6 +55,7 @@ This section showcases the application of Python programming skills to data-orie
 SQL exercises, practical assignments, and supporting learning materials focused on relational databases and database operations.
 
 **Topics include:**
+
 - SQL Queries.
 - SELECT Statements.
 - Filtering and Sorting.
@@ -63,6 +66,21 @@ SQL exercises, practical assignments, and supporting learning materials focused 
 - Transactions.
 - Stored Procedures.
 - Advanced SQL Techniques.
+
+### 6. Documentation & Learning Resources
+
+This directory contains supplementary documentation, technical guides, and instructional materials used throughout the IBM Data Science Professional Certificate.
+
+These resources provide additional guidance on working with IBM's data science environment, configuring development tools, and completing practical course activities.
+
+**Documentation includes:**
+
+- Environment setup and configuration guides.
+- Instructions for using IBM data science tools and platforms.
+- Jupyter Notebook and development environment resources.
+- Technical references supporting course exercises and assignments.
+
+The documentation is provided as supplementary learning material to support the practical exercises and projects included in this repository.
 
 ## Tools & Technologies
 
